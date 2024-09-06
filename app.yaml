@@ -44,7 +44,7 @@ spec:
 apiVersion: ui.cattle.io/v1
 kind: NavLink
 metadata:
-  name: bah-demo
+  name: fleet-demo
 spec:
   target: _blank
   toService:
